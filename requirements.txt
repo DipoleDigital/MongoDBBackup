@@ -5,3 +5,6 @@ idna==3.10
 pymongo==4.15.1
 requests==2.32.5
 urllib3==2.5.0
+
+# Build dependencies
+pyinstaller>=5.0.0
